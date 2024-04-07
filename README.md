@@ -10,4 +10,4 @@ Here are some related projects
 Objective: To clean and explore the Titanic dataset, investigating relationships between variables, and uncovering patterns and trends to gain insights into factors influencing passenger survival on the Titanic.
 
 ## 🔗 Links
-![Sample Dataset :- ](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)https://www.kaggle.com/c/titanic/data
+![Sample Dataset :- ]https://www.kaggle.com/c/titanic/data
